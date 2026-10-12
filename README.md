@@ -7,7 +7,7 @@ Emgineering Manager
 I have over six years of experience in software development, primarily with Python. I have also worked on a variety of projects involving Javascript. My experience with Python includes working on both the front end and back end of applications. I have also worked on projects involving web development and Gen-AI. I have also hand-on experience on AWS, GCP etc. cloud provider as well as Redis, Docket and Kubernetes.
 
 * 🌍  I'm based in Gurgaon, India
-* ✉️  You can contact me at [rpratap@calance.com](mailto:rpratap@calance.com)
+* ✉️  You can contact me at [Ram Pratap](mailto:ramcala@duck.com)
 
 ### Skills
 
